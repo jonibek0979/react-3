@@ -1,0 +1,43 @@
+main {
+    padding-bottom: 331px;
+    padding-top: 249px;
+
+    .MAIN__inner {
+
+        h2 {
+            width: 960px;
+            height: 169px;
+            flex-shrink: 0;
+            text-align: center;
+            font-size: 64px;
+            font-style: normal;
+            font-weight: 700;
+            margin: 0 auto;
+        }
+
+        p {
+            width: 660px;
+            height: 156px;
+            flex-shrink: 0;
+            text-align: center;
+            font-family: Nunito Sans;
+            font-size: 24px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%;
+            margin: 0 auto;
+            margin-top: 31px;
+
+
+        }
+    }
+}
+
+.color {
+    color: #000;
+}
+
+.colo2 {
+    color: #fff;
+}
+
